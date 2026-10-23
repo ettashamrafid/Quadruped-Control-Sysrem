@@ -1,0 +1,12 @@
+Syntax parsed (not imported or executed): analytical.py
+Syntax parsed (not imported or executed): workflow.py
+Syntax parsed (not imported or executed): cad_engine.py
+Syntax parsed (not imported or executed): recording.py
+Syntax parsed (not imported or executed): check_setup.py
+Syntax parsed (not imported or executed): report.py
+Syntax parsed (not imported or executed): original_calculator.py
+Syntax parsed (not imported or executed): tests/test_recorded_results.py
+Unchanged analytical source: analytical.py
+Unchanged analytical source: original_calculator.py
+Static XML asset check: all referenced mesh files exist
+No generated simulation results or videos bundled; no runtime test performed

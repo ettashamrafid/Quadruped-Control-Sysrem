@@ -1,0 +1,37 @@
+{
+  "center_mm": [
+    -80,
+    65,
+    -240
+  ],
+  "radius_mm": 35,
+  "height_mm": 60,
+  "turns": 4,
+  "base_seconds": 4,
+  "rise_seconds": 12,
+  "samples": 1601,
+  "approach_samples": 60,
+  "max_relaxation_steps": 1000,
+  "min_relaxation_steps": 50,
+  "position_tolerance_mm": 0.1,
+  "closure_tolerance_mm": 0.05,
+  "angle_tolerance_deg": 0.01,
+  "penetration_tolerance_mm": 0.1,
+  "joint_limits_deg": null,
+  "test_joint_rates_deg_s": [
+    5,
+    10,
+    -7
+  ],
+  "settled_speed_tolerance_rad_s": 0.001,
+  "recording": {
+    "fps": 30,
+    "width": 960,
+    "height": 720,
+    "physics_video": true,
+    "trajectory_video": true
+  },
+  "comparison_position_tolerance_mm": 0.1,
+  "jacobian_tolerance_mm_rad": 0.01,
+  "velocity_tolerance_mm_s": 0.01
+}
